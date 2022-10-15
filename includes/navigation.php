@@ -18,7 +18,7 @@
 
 <!-- Navbar Start -->
 <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top px-4 px-lg-5">
-    <a href="index.php" class="navbar-brand d-flex align-items-center">
+    <a href="index.html" class="navbar-brand d-flex align-items-center">
         <h2 class="m-0" style="color:#fcb913; "><img class="img-fluid me-3" src="img/icon/mer.png" alt="">MERKEZA HONEY</h2>
     </a>
     <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -26,13 +26,13 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarCollapse">
         <div class="navbar-nav mx-auto bg-light pe-4 py-3 py-lg-0">
-            <a href="index.php" class="nav-item nav-link active" style="color:#154700;">Home</a>
+            <a href="index.html" class="nav-item nav-link active" style="color:#154700;">Home</a>
             <div class="nav-item dropdown">
                 <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">About</a>
                 <div class="dropdown-menu bg-light border-0 m-0">
-                    <a href="whoweare.php" class="dropdown-item">who we are</a>
-                    <a href="theethiopianhoney.php" class="dropdown-item">The Ethiopian Honey</a>
-                    <a href="whychooseus.php" class="dropdown-item">Why choose us</a>
+                    <a href="whoweare.html" class="dropdown-item">who we are</a>
+                    <a href="theethiopianhoney.html" class="dropdown-item">The Ethiopian Honey</a>
+                    <a href="whychooseus.html" class="dropdown-item">Why choose us</a>
 
                 </div>
             </div>
